@@ -1,19 +1,30 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Openframe R&D Team Lead
+- company: Tmaxsoft, US
+  position: Openframe R&D Team Lead
+  duration: Sep, 2018 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>Openframe Monitoring Tool (Python)</li><li>Openframe Testing Tool (Python, Java/Spring, React)</li><li>Openframe Operation Tool (Python)</li><li>Rewrite Mainframe Applications (C/C++, COBOL, HLASM)</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Compiler R&D Team Lead
+- company: Tmaxsoft, South Korea
+  position: Compiler R&D Team Lead
+  duration: Feb, 2017 &mdash; Sep, 2018
+  summary: <ul class="resume-item-list"><li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>COBOL Compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li><li>PLI Compiler and GDB (C/C++, PLI, LLVM, Flex/Bison, GDB)</li><li>Eztrieve interpreter (C/C++, Flex/Bison)</li></ul>
 
+# Compiler R&D Researcher
+- company: Tmaxsoft, South Korea
+  position: Compiler R&D Researcher
+  duration: Feb, 2013 &mdash; Feb, 2017
+  summary: <ul class="resume-item-list"><li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>HLASM Compiler (C/C++, HLASM, LLVM, Flex/Bison)</li><li>COBOL Compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Researcher
+- company: RTOS Lab at Seoul National University, South Korea
+  position: Researcher
+  duration: Sep, 2010 &mdash; Feb, 2013
+  summary: <ul class="resume-item-list"><li>Smartphone Accessibility for the Disabled (C/C++, Android, Java)</li><li>Improving Performance and QoS for KVM Virtual Machine (C/C++)</li><li>Code converter from Matlab simulink to OPRoS source code (C/C++, Matlab, OPRoS)</li></ul>
+
+  # Internship
+- company: Sindoh, South Korea
+  position: Internship
+  duration: Dec, 2010 &mdash; March, 2011
+  summary: <ul class="resume-item-list"><li>Embedded Software for All-in-One Printer (C/C++, QT)<li>Scanner device driver for Linux (C/C++, XSANE)</li></ul>
