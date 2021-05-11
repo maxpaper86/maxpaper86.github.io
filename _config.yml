@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Peter Jangwon Han"
-resume_title:                   "Openframe R&D Team Lead at Tmaxsoft US"
+resume_title:                   "Openframe R&D Manager at Tmaxsoft US"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "maxpaper86@gmail.com"
