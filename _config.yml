@@ -11,17 +11,17 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Jangwon Han"
-resume_title:                   "Director of Global R&D Center, Tmaxsoft US"
+resume_title:                   "Manager of Global R&D, Tmaxsoft US"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "peter.j.han@tmaxsoft.com"
+resume_contact_email:           "maxpaper86@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "N.A."
-resume_contact_address:         "Arlington Heights, IL, 60004"
+resume_contact_telephone:       ""
+resume_contact_address:         "Arlington Heights, IL, 60004, USA"
 
-resume_header_contact_info:     "Arlington Heights, IL, 60004 • N.A. • peter.j.han@tmaxsoft.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Arlington Heights, IL, 60004, USA • maxpaper86@gmail.com"
+display_header_contact_info:    "true"
 
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
@@ -45,15 +45,15 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 #resume_social_links:
-#  resume_github_url:            "https://github.com/maxpaper86"
+resume_github_url:            "https://github.com/maxpaper86"
 #  resume_twitter_url:           ""
 #  resume_dribbble_url:          ""
-  # resume_facebook_url:          "insert Facebook URL here"
-  #  resume_linkedin_url:          "https://www.linkedin.com/maxpaper86"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  #  resume_website_url:           ""
-  #  resume_medium_url:            ""
-  #resume_print_social_links:      true
+# resume_facebook_url:          "insert Facebook URL here"
+resume_linkedin_url:          "https://www.linkedin.com/maxpaper86"
+# resume_instagram_url:         "insert your Instagram URL here"
+#  resume_website_url:           ""
+#  resume_medium_url:            ""
+#resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
