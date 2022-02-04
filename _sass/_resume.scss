@@ -31,7 +31,7 @@
 
   .header-name {
     @include sans;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;
     text-align: center;
     letter-spacing: -.15rem;
@@ -49,7 +49,7 @@
 
   .title-bar {
     @include section_border;
-    margin-top: 2rem;
+    margin-top: 1rem;
     padding: .4rem 0;
     @include clearfix;
 
@@ -57,7 +57,7 @@
       @include sans;
       font-weight: 300;
       font-size: 1.75rem;
-      line-height: 2rem;
+      line-height: 1rem;
       letter-spacing: -.05rem;
       text-align: center;
       margin: 0 0 .5rem;
@@ -133,9 +133,9 @@
 // resume content styles
 
 .content-section {
-  margin: 0 0 3rem;
+  margin: 0 0 2rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item { margin-bottom: 1rem; }
 
   .resume-item-title {
     @include sans_bold;
@@ -180,7 +180,7 @@
   border-top: 4px solid #c7c7c7;
   padding-top: 1.5rem;
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 
   .footer-line {
     margin: 0;
@@ -203,7 +203,7 @@
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
-      font-size: 2rem;
+      font-size: 1rem;
       margin: 0 0 .2rem;
     }
   }

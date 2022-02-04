@@ -2,9 +2,5 @@
 # Organizational leadership
 - skill: Expert
   description: C/C++, HLASM, Flex/Bison, GDB, Git
-
 - skill: Advanced
   description: LLVM, COBOL, PLI, Java/Spring, Python
-
-- skill: Intermediate
-  description: React

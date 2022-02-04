@@ -1,13 +1,14 @@
 # Jobs
-# Openframe R&D Manager
+# Manager of GRDC
 - company: Tmaxsoft, US
-  position: Openframe R&D Manager
+  position: Manager of Global R&D Center
   duration: Sep, 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>Openframe Monitoring Tool (Python)</li><li>Openframe Testing Tool (Python, Java/Spring, React)</li><li>Openframe Operation Tool (Python)</li><li>Rewrite Mainframe Applications (C/C++, COBOL, HLASM)</li></ul>
+  summary: <ul class="resume-item-list"><li>Hire, develop and lead personnel to operate the Tmaxsoft Global R&D Center</li><li>Direct design, code development, software testing, and documentation</li><li>Own the product roadmap and communicate with all stakeholders</li><li>Supervise projects and provide guidance to the technical issues</li></ul>
+  #  <li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>Openframe Monitoring Tool (Python)</li><li>Openframe Testing Tool (Python, Java/Spring, React)</li><li>Openframe Operation Tool (Python)</li><li>Rewrite Mainframe Applications (C/C++, COBOL, HLASM)</li></ul>
 
 # Compiler R&D Manager
 - company: Tmaxsoft, South Korea
-  position: Compiler R&D Manager
+  position: Manager of Compiler R&D
   duration: Feb, 2017 &mdash; Sep, 2018
   summary: <ul class="resume-item-list"><li>Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>COBOL Compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li><li>PLI Compiler and GDB (C/C++, PLI, LLVM, Flex/Bison, GDB)</li><li>Eztrieve interpreter (C/C++, Flex/Bison)</li></ul>
 
