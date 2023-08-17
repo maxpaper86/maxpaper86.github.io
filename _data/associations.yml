@@ -1,11 +1,5 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- award: Method for bidirectional calling between open system and mainframe system performed by computing device (US)
-  organization: US10324775B2
-  year: 2019
-
-- award: Method for bidirectional calling between open system and mainframe system performed by computing device (KR)
-  organization: KR101856486B1
-  year: 2018
-
+- award: Method for bidirectional calling between open system and mainframe system performed by computing device
+  organization: KR101856486B1(2018), US10324775B2 (2019) 
