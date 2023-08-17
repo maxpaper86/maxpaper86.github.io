@@ -3,28 +3,28 @@
 - company: Tmaxsoft, US
   position: Manager
   duration: Sep, 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Lead Developer of Openframe Monitor (Python, influxDB, Grafana)</li><li>Lead Developer of Openframe Tools (Python)</li><li>Lead Developer of Openframe Test (Python, Java/Spring, React)</li><li>Rewrite Mainframe Applications (C/C++, COBOL, HLASM)</li><li>Supervise projects in US and provide guidance on solving technical issues</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Openframe Monitor (Python, influxDB, Grafana)</li><li>Lead developer of Openframe Tools (Python)</li><li>Lead developer of Openframe Test (Python, Java/Spring, React)</li><li>Rewrite Mainframe applications to C/C++ on Linux (C/C++, COBOL, HLASM)</li><li>Supervise projects in US and provide guidance on solving technical issues</li></ul>
 
 # Compiler R&D
 - company: Tmaxsoft, South Korea
   position: Manager
   duration: Feb, 2017 &mdash; Sep, 2018
-  summary: <ul class="resume-item-list"><li>Lead Developer of Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>Participated in developing COBOL Compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li><li>Participated in developing PLI Compiler and GDB (C/C++, PLI, LLVM, Flex/Bison, GDB)</li><li>Participated in developing Eztrieve interpreter (C/C++, Flex/Bison)</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Participated in developing COBOL compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li><li>Participated in developing PLI compiler and GDB (C/C++, PLI, LLVM, Flex/Bison, GDB)</li><li>Participated in developing Eztrieve interpreter (C/C++, Flex/Bison)</li></ul>
 
 # Compiler R&D
 - company: Tmaxsoft, South Korea
   position: Researcher
   duration: Feb, 2013 &mdash; Feb, 2017
-  summary: <ul class="resume-item-list"><li>Lead Developer of Mainframe VM & Assembler (C/C++, HLASM, Flex/Bison)</li><li>Lead developer of HLASM Compiler (C/C++, HLASM, LLVM, Flex/Bison)</li><li>Participated in developing OFCOBOL Compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Lead developer of HLASM compiler (C/C++, HLASM, LLVM, Flex/Bison)</li><li>Participated in developing OFCOBOL compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li></ul>
 
 # Researcher
 - company: Real-time Operating Systems Lab, Seoul National University, South Korea
   position: Researcher
   duration: Sep, 2010 &mdash; Feb, 2013
-  summary: <ul class="resume-item-list"><li>Participated in Implementing Smartphone Accessibility Features for the Disabled (C/C++, Android, Java)</li><li>Participated in Improving Performance and QoS for KVM Virtual Machine (C/C++)</li><li>Participated in Implementing Code Converter from Matlab Simulink to OPRoS source code (C/C++, Matlab, OPRoS)</li></ul>
+  summary: <ul class="resume-item-list"><li>Participated in implementing smartphone accessibility features for the disabled (C/C++, Android, Java)</li><li>Participated in improving performance and QoS for KVM virtual machine (C/C++)</li><li>Participated in implementing code converter from Matlab Simulink to OPRoS source code (C/C++, Matlab, OPRoS)</li></ul>
 
   # Internship
 - company: Sindoh, South Korea
   position: Internship
   duration: Dec, 2010 &mdash; March, 2011
-  summary: <ul class="resume-item-list"><li>Participated in Implementing Embedded Software for All-in-One Printer (C/C++, QT)<li>Participated in Implementing Linux Device Driver for Scanner Device (C/C++, XSANE)</li></ul>
+  summary: <ul class="resume-item-list"><li>Participated in implementing embedded software for All-in-One printers (C/C++, QT)<li>Participated in implementing Linux device driver for scanner devices (C/C++, XSANE)</li></ul>
