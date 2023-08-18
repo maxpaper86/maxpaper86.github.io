@@ -5,27 +5,27 @@
 
 # jazznotes.io
 - project: BMO Rehosting Project
-  role: Global R&D Manager 
+  role: Manager, Global R&D 
   duration: 2020 - 2021
   description: Manage all the technical issues during the project related to the Openframe product.
  
 - project: Entergy Rehosting Project
-  role: Global R&D Manager 
+  role: Manager, Global R&D
   duration: 2019 - 2020
   description: Manage all the technical issues during the project related to the Openframe product.
 
 - project: Colony Brands Rehosting Project
-  role: Compiler R&D Manager 
+  role: Manager, Compiler R&D 
   duration: 2017 - 2019
   description: Developed Mainframe VM and compiler targeting 200+ assembler programs and thousands of COBOL programs, including 9+ months of onsite support.
 
 - project: Inageya Rehosting Project
-  role: Compiler R&D Researcher
+  role: Researcher, Compiler R&D
   duration: 2014 - 2015
   description: Developed HLASM compiler targeting 50+ assembler programs.
 
 - project: Fukuyama Rehosting Project
-  role: Compiler R&D Researcher
+  role: Researcher, Compiler R&D
   duration: 2013 - 2014
   description: Developed HLASM compiler targeting 100+ assembler programs, including 4+ months of onsite support.
 
