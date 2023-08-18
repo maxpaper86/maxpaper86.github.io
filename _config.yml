@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Peter Jangwon Han"
-resume_title:                   "Manager of Global R&D, Tmaxsoft US"
+resume_title:                   "Manager of Global R&D"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "maxpaper86@gmail.com"
