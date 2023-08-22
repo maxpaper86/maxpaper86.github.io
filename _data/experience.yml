@@ -3,25 +3,25 @@
 - company: Tmaxsoft, US
   position: Manager, Global R&D
   duration: Sep, 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Lead developer of Openframe Monitor (Python, influxDB, Grafana)</li><li>Lead developer of Openframe Tools (Python)</li><li>Lead developer of Openframe Test (Python, Java/Spring, React)</li><li>Rewrite Mainframe applications to C/C++ on Linux (C/C++, COBOL, HLASM)</li><li>Supervise projects in US and provide guidance on solving technical issues</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Openframe Monitor, Test, Tools (Python, influxDB, Grafana, Java/Spring, React)</li><li>Rewrite Mainframe applications to C/C++ on Linux (C/C++, COBOL, HLASM)</li><li>Supervise rehosting projects and provide guidance on solving technical issues</li></ul>
 
 # Compiler R&D
 - company: Tmaxsoft, South Korea
   position: Manager, Compiler R&D
   duration: Feb, 2017 &mdash; Sep, 2018
-  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Participated in developing COBOL compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li><li>Participated in developing PLI compiler and GDB (C/C++, PLI, LLVM, Flex/Bison, GDB)</li><li>Participated in developing Eztrieve interpreter (C/C++, Flex/Bison)</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Participated in developing COBOL, PLI, Protreive compiler and GDB (C/C++, COBOL, PLI, Protreive, LLVM, Flex/Bison, GDB)</li></ul>
 
 # Compiler R&D
 - company: Tmaxsoft, South Korea
   position: Researcher, Compiler R&D
   duration: Feb, 2013 &mdash; Feb, 2017
-  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Lead developer of HLASM compiler (C/C++, HLASM, LLVM, Flex/Bison)</li><li>Participated in developing OFCOBOL compiler and GDB (C/C++, COBOL, LLVM, Flex/Bison, GDB)</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead developer of Mainframe VM & assembler (C/C++, HLASM, Flex/Bison)</li><li>Lead developer of COBOL, HLASM compiler (C/C++, COBOL, HLASM, LLVM, Flex/Bison, GDB)</li></ul>
 
 # Researcher
 - company: Seoul National University, South Korea
   position: Researcher, Real-time Operating Systems Lab
   duration: Sep, 2010 &mdash; Feb, 2013
-  summary: <ul class="resume-item-list"><li>Participated in implementing smartphone accessibility features for the disabled (C/C++, Android, Java)</li><li>Participated in improving performance and QoS for KVM virtual machine (C/C++)</li><li>Participated in implementing code converter from Matlab Simulink to OPRoS source code (C/C++, Matlab, OPRoS)</li></ul>
+  summary: <ul class="resume-item-list"><li>Participated in implementing smartphone accessibility features for the disabled (C/C++, Android, Java)</li><li>Participated in improving performance and QoS for KVM virtual machine (C/C++)</li><li>Participated in implementing Matlab Simulink to OPRoS code converter (C/C++, Matlab, OPRoS)</li></ul>
 
 # Internship
 - company: Sindoh, South Korea
